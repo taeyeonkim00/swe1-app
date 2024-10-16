@@ -1,7 +1,7 @@
 # README
 
 ![Build Status](https://app.travis-ci.com/taeyeonkim00/swe1-app.svg?token=xLmtyEgUnfqQd5zifCxu&branch=main)
-![Coverage Status](https://coveralls.io/repos/github/taeyeonkim00/swe1-app/badge.svg?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/taeyeonkim00/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/taeyeonkim00/swe1-app?branch=main)
 
 
 ```sh
